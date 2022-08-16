@@ -23,11 +23,12 @@ public class principal extends JFrame{
     }
 
     public void iniciarComponentes(){
-        botonIniciarArreglo.setBounds(10,10,100,30);
+        int x = 100;
+        botonIniciarArreglo.setBounds(x,30,150,50);
         botonIniciarArreglo.setMargin(new Insets(0,0,0,0));
-        botonOrdenarArreglo.setBounds(10,80,100,30);
+        botonOrdenarArreglo.setBounds(x,100,150,50);
         botonOrdenarArreglo.setMargin(new Insets(0,0,0,0));
-        botonArregloOrdenado.setBounds(10,130,100,30);
+        botonArregloOrdenado.setBounds(x,170,150,50);
         botonArregloOrdenado.setMargin(new Insets(0,0,0,0));
         this.add(botonIniciarArreglo);
         this.add(botonOrdenarArreglo);
