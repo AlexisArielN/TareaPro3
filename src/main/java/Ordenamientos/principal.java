@@ -1,3 +1,5 @@
+package Ordenamientos;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -37,15 +39,19 @@ public class principal extends JFrame{
 
         botonIniciarArreglo.addActionListener(e ->{
             boolean preguntaUsuario = false;
-            while(preguntaUsuario == false) {
-                numeroUsuario = Integer.parseInt(JOptionPane.showInputDialog("INGRESA EL TAMAÑO DEL ARREGLO ENTRE 10.000 y 1.000.000"));
-                if (numeroUsuario >= 10000 && numeroUsuario <= 1000000) {
-                    preguntaUsuario = true;
-                } else {
-                    JOptionPane.showMessageDialog(null, "INGRESA UN NUMERO ENTRE 10.000 y 1.000.000");
+            try{
+                while(preguntaUsuario == false) {
+                    numeroUsuario = Integer.parseInt(JOptionPane.showInputDialog("INGRESA EL TAMAÑO DEL ARREGLO ENTRE 10.000 y 1.000.000"));
+                    if (numeroUsuario >= 10000 && numeroUsuario <= 1000000) {
+                        preguntaUsuario = true;
+                    } else {
+                        JOptionPane.showMessageDialog(null, "INGRESA UN NUMERO ENTRE 10.000 y 1.000.000");
+                    }
                 }
+                obj = new Ordenamientos(numeroUsuario);//10000
+            }catch(Exception ex){
+                JOptionPane.showMessageDialog(null, "Debes ingresar numeros no letras");
             }
-            obj = new Ordenamientos(numeroUsuario);//10000
         });
         botonOrdenarArreglo.addActionListener(e ->{
             try{
