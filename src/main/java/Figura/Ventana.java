@@ -4,14 +4,12 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import javax.swing.*;
-import java.beans.PropertyChangeSupport;
 
 public class Ventana extends JFrame {
 
     private static final Logger log = LogManager.getLogger(Ventana.class);
     private Figura cuadrado;
     private Panel panel;
-    private PropertyChangeSupport objeto;
 
     public Ventana() {
         setTitle("Principal");
