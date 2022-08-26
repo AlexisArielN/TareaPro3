@@ -1,0 +1,11 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú¨ø™şÿÿÿÿ8ªÖ×ä¬0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûĞäèıÿÿÿÿ8ÒÖ×ä¬0
+B
+java:S1948"%Make "obj" transient or serializable.(ó¯ÚÉ8÷Îâä¬0
+C
+java:S1125+"'Remove the unnecessary boolean literal.(¾”‚28ËØ×ä¬0
+X
+java:S1854L";Remove this useless assignment to local variable "ventana".(©ù©¦8İØ×ä¬0
+I
+java:S1481L",Remove this unused "ventana" local variable.(©ù©¦8áØ×ä¬0

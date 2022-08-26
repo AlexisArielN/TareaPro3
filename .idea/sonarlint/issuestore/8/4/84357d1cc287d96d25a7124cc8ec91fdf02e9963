@@ -1,0 +1,76 @@
+
+K
+java:S1066,"/Merge this if statement with the enclosing one.(å½¦8ç¾×ä¬0
+L
+java:S10662"/Merge this if statement with the enclosing one.(¦Şßê8è¾×ä¬0
+L
+java:S10668"/Merge this if statement with the enclosing one.(†§úÕ8ê¾×ä¬0
+r	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ĞÒøÿÿÿÿ8í¾×ä¬0
+r	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ËäŠûÿÿÿÿ8ñ¾×ä¬0
+r	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ñ·×úÿÿÿÿ8ò¾×ä¬0
+m	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üìÊŒ8ó¾×ä¬0
+r	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍµÁÄıÿÿÿÿ8ô¾×ä¬0
+r	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¢¦€üÿÿÿÿ8õ¾×ä¬0
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(é…Ô‰øÿÿÿÿ8ú¾×ä¬0
+T
+java:S2629"7Use the built-in formatting to construct this argument.(•Å••8ş¾×ä¬0
+T
+java:S2629"7Use the built-in formatting to construct this argument.(°Ãèò8ÿ¾×ä¬0
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(ÿıÌ•ÿÿÿÿÿ8€¿×ä¬0
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(ôëËÏıÿÿÿÿ8‚¿×ä¬0
+y
+java:S2629Z"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¹®ªÄ8ƒ¿×ä¬0
+~
+java:S2629["\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(îÅÄüÿÿÿÿ8ƒ¿×ä¬0
+y
+java:S2629\"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(Á„ª8„¿×ä¬0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûĞäèıÿÿÿÿ8‹¿×ä¬0
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(é…Ô‰øÿÿÿÿ8œÒ×ä¬0
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(•Å••8£Ò×ä¬0
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(°Ãèò8’Ó×ä¬0
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ÿıÌ•ÿÿÿÿÿ8”Ó×ä¬0
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ôëËÏıÿÿÿÿ8–Ó×ä¬0
+F
+java:S2140!")Use "java.util.Random.nextInt()" instead.(¦¬åÌ8šÓ×ä¬0
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÆÃÂÄûÿÿÿÿ8Ó×ä¬0
+F
+java:S2140A")Use "java.util.Random.nextInt()" instead.(Íé»ø8¢Ó×ä¬0
+K
+java:S2140C")Use "java.util.Random.nextInt()" instead.(àÌûÿÿÿÿ8¥Ó×ä¬0
+^
+java:S3457Z"AFormat specifiers should be used instead of string concatenation.(¹®ªÄ8°Ó×ä¬0
+c
+java:S3457["AFormat specifiers should be used instead of string concatenation.(îÅÄüÿÿÿÿ8²Ó×ä¬0
+^
+java:S3457\"AFormat specifiers should be used instead of string concatenation.(Á„ª8·Ó×ä¬0
+U	java:S106`"9Replace this use of System.out or System.err by a logger.(ÕÙøü8¼Ó×ä¬0
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(Õ™“áùÿÿÿÿ8¿Ó×ä¬0
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÀÓ×ä¬0
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(íŞŸ·üÿÿÿÿ8ÅÓ×ä¬0
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(éÁ¾ûÿÿÿÿ8ÇÓ×ä¬0
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÉÓ×ä¬0
+U	java:S106p"9Replace this use of System.out or System.err by a logger.(ï°Ææ8ÌÓ×ä¬0
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(·œºŸıÿÿÿÿ8ÎÓ×ä¬0
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÏÓ×ä¬0
+H
+java:S1197“"*Move the array designators [] to the type.(¸ñ€Ö8ÙÓ×ä¬0
+p
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Æš™8‹Ô×ä¬0
+F	java:S108À")Either remove or fill this block of code.(±•å•8Ô×ä¬0
+F	java:S108Ê")Either remove or fill this block of code.(±•å•8Ô×ä¬0
+F	java:S108Ô")Either remove or fill this block of code.(±•å•8“Ô×ä¬0
+J
+java:S1125Ù"'Remove the unnecessary boolean literal.(½Ï«Äşÿÿÿÿ8•Ô×ä¬0
+E
+java:S1125Ş"'Remove the unnecessary boolean literal.(ŞãƒÖ8™Ô×ä¬0
+J
+java:S1125ã"'Remove the unnecessary boolean literal.(Æ£Úæıÿÿÿÿ8›Ô×ä¬0
