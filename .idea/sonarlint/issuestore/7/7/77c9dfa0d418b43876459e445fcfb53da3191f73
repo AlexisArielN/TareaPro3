@@ -1,0 +1,40 @@
+
+=
+java:S16049"(Make this anonymous inner class a lambda(î³
+>
+java:S1604?"(Make this anonymous inner class a lambda(ÂÎ‚´
+>
+java:S1604E"(Make this anonymous inner class a lambda(ºòà
+C
+java:S1604K"(Make this anonymous inner class a lambda(ØäÕõûÿÿÿÿ
+>
+java:S1604Q"(Make this anonymous inner class a lambda( ëæì
+J
+java:S1604a"(Make this anonymous inner class a lambda(¬Ýëùùÿÿÿÿ8ñ´èÿ²0
+m
+java:S1104"WMake tipo_figura a static final constant or non-public and provide accessors if needed.(¯´¬ç
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(×æÅøÿÿÿÿ
+G
+java:S1444"1Make this "public static tipo_figura" field final(¯´¬ç
+F
+java:S1444"+Make this "public static color" field final(×æÅøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ëè’ýÿÿÿÿ
+l
+java:S3008"VRename this field "tipo_figura" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯´¬ç
+>
+java:S1948"(Make "modelo" transient or serializable.(Á©€Ð
+L
+java:S2696<"6Make the enclosing method "static" or remove this set.(æ—šï
+L
+java:S2696B"6Make the enclosing method "static" or remove this set.(œÈûÆ
+L
+java:S2696H"6Make the enclosing method "static" or remove this set.(‚ñ¥Œ
+Q
+java:S2696N"6Make the enclosing method "static" or remove this set.(ãà€Æüÿÿÿÿ
+Q
+java:S2696V"6Make the enclosing method "static" or remove this set.(Ž†ÛÅüÿÿÿÿ
+Q
+java:S1854ˆ"5Remove this useless assignment to local variable "v".(Þ´¹²ùÿÿÿÿ
+B
+java:S1481ˆ"&Remove this unused "v" local variable.(Þ´¹²ùÿÿÿÿ

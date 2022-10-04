@@ -1,0 +1,6 @@
+
+b
+java:S1192P"GDefine a constant instead of duplicating this literal "ESCENA" 4 times.(ïÕÊÚýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ÕŽ‘
+m
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ë£ô÷ÿÿÿÿÿ
