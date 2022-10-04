@@ -13,7 +13,7 @@ public class principal extends JFrame{
     private Ordenamientos obj;
 
     public principal(){
-        setTitle("Ventana");
+        setTitle("FlowLayout");
         setSize(400,300);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
