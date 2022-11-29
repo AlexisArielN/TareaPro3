@@ -76,7 +76,6 @@ public class Ordenamientos {
         insercion();
         long tiempo_final1 = System.nanoTime();//45
         long tiempoTotal1 = tiempo_final1 - tiempo_inicial1;//45 - 4 = 41
-
         long tiempo_inicial2 = System.nanoTime();
         burbuja();
         long tiempo_final2 = System.nanoTime();

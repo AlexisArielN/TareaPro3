@@ -42,7 +42,6 @@ public class Ventana extends JFrame {
         cargarPanelHerramientas();
         panelCentral = new PanelCentral(modelo);
 
-
         this.getContentPane().setLayout(new BorderLayout());
         this.getContentPane().add(panelHerramientas, BorderLayout.NORTH);
         //this.getContentPane().add(panelCentral, BorderLayout.CENTER);
