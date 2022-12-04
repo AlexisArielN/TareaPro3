@@ -33,7 +33,7 @@ public class OrdenamientoFrame extends JFrame {
     public void asignarValores(){
         valores = new int[400];
         for (int i = 0; i < valores.length; i++) {
-            valores[i] = 1+(int)(Math.random()*100) ;
+            valores[i] = 1+(int)(Math.random()*400) ;
         }
         logger.info("Se asignaron los valores a las diferentes posiciones");
     }

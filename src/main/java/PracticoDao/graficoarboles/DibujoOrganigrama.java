@@ -16,7 +16,6 @@ public class DibujoOrganigrama<E> {
     }
 
     public void dibujar(int x, int y, Graphics g) {
-
         raiz.dibujar(x, y, g);
     }
 
